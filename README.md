@@ -1,14 +1,14 @@
-Description
+Description:
 This project implements Huffman encoding and decoding algorithms 
 for file compression and decompression. It includes functionality for handling 
 both individual files and archived collections of files using Huffman coding, providing 
 efficient compression for text-based data.
 
 
-Requirements
+Requirements:
 Maven for building and managing dependencies
 
-Installation
+Installation:
 Clone the repository to your local machine:
 
 git clone https://github.com/baileykimmel/FileCompressionSE2H.git
@@ -25,7 +25,7 @@ If using Maven, you can test the project with:
 
 mvn test
 
-Usage
+Usage:
 Compressing a File
 To compress a file using Huffman coding:
 
