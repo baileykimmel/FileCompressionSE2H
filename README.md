@@ -41,7 +41,7 @@ Clone the repository to your local machine:
 
 git clone https://github.com/baileykimmel/FileCompressionSE2H.git
 cd FileCompressionSE2H
-cd blk20c_finalComp
+cd final
 
 Compile the Java files (if not using Maven):
 javac *.java
