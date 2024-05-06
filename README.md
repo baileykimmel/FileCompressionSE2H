@@ -34,4 +34,4 @@ java SchubsH inputfile.txt
 Decompressing a File
 To decompress a file that was compressed using this program:
 
-java Deschubs <filename>
+java Deschubs filename
