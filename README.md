@@ -11,7 +11,7 @@ Maven for building and managing dependencies
 Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/FileCompressionSE2H.git
+git clone https://github.com/baileykimmel/FileCompressionSE2H.git
 cd FileCompressionSE2H
 
 Compile the Java files (if not using Maven):
