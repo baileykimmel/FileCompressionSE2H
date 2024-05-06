@@ -1,5 +1,0 @@
-done: - don't allow the user to decompress a file if the name already exists. throw a warning. make the user move the file.
--make deschubs work with archive
--fix mvn test cases 
-done: -make it work with a folder 
-fix lzwse2 test cases hard coded
